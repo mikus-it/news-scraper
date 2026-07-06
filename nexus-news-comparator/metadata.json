@@ -1,0 +1,6 @@
+{
+  "name": "Nexus News Comparator",
+  "description": "A news aggregation and comparison tool that uses Gemini with Google Search Grounding to retrieve, summarize, and compare stories across specific news outlets (e.g., Delfi, TVNET) to provide a balanced perspective.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
